@@ -8,4 +8,4 @@ A simple user vs system game where the system picks a random number, and the use
     - 😈 Hard: Guess between 1–25 (no hints—good luck!)
 
 ## Example Output
-[image ](https://github.com/joselaraj/number_mini_game/blob/06221dd052573fac02927478aaab7f1f693d76e9/mini_game(1).png)
+![image ](https://github.com/joselaraj/number_mini_game/blob/06221dd052573fac02927478aaab7f1f693d76e9/mini_game(1).png)
