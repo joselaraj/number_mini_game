@@ -1,4 +1,4 @@
-# Number Mini Game 🎮
+# Number Guessing Game 🎮
 A simple user vs system game where the system picks a random number, and the user tries to guess it correctly.
 
 ## Features 🕹️
